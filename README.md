@@ -20,7 +20,8 @@ WordPress Container (Apache + PHP)
 ↓  
 MySQL Container (Database)
 
-| ![](IMG/1.png) |
+
+![](IMG/1.png) 
 
 ### Flow Explanation
 
