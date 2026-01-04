@@ -1,6 +1,6 @@
 # Dockerized WordPress – 2-Tier Architecture
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates a **2-Tier architecture** using **Docker**, where:
 
@@ -12,7 +12,7 @@ This setup reflects a real-world **DevOps containerized deployment approach**.
 
 ---
 
-## 🏗️ Architecture Flow
+##  Architecture Flow
 
 User Browser  
 ↓  
@@ -33,7 +33,7 @@ MySQL Container (Database)
 
 ---
 
-## 🧱 Architecture Type
+##  Architecture Type
 
 - 2-Tier Architecture  
 - Containerized using Docker  
@@ -41,7 +41,7 @@ MySQL Container (Database)
 
 ---
 
-## 🛠️ Tech Stack Used
+##  Tech Stack Used
 
 - Docker  
 - WordPress (Apache + PHP)  
@@ -51,7 +51,7 @@ MySQL Container (Database)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 project-root/
 │── IMG
@@ -61,7 +61,7 @@ project-root/
 
 ---
 
-## ⚙️ Docker Components
+##  Docker Components
 
 ### 1️⃣ WordPress Container
 
@@ -77,7 +77,7 @@ project-root/
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 This project is executed **without docker-compose**, using `docker run` commands.
 
@@ -123,7 +123,7 @@ http://<server-ip>
 Complete the WordPress installation using the UI.
 
 
-### 🖼️ Project Screenshots
+###  Project Screenshots
 
 | Screenshot | Description |
 |-----------|-------------|
@@ -133,7 +133,7 @@ Complete the WordPress installation using the UI.
 
 
 
-### 🔐 Networking & Security
+###  Networking & Security
 
 - Docker bridge network used for communication
 
@@ -141,7 +141,7 @@ Complete the WordPress installation using the UI.
 
 - Secure communication via environment variables
 
-### 📘 What You Learn From This Project
+###  What You Learn From This Project
 
 - Docker container fundamentals
 
@@ -179,6 +179,6 @@ Hands-on experience with Docker, Linux, AWS, Ansible, Terraform
 
 **linkedin:** https://www.linkedin.com/in/ganesh-jadhav-30813a267/
 
-✅ Conclusion
+Conclusion
 
 This project demonstrates how a traditional WordPress application can be deployed using a Docker-based 2-Tier architecture, providing application isolation, scalability, and simplified deployment using modern DevOps practices.
